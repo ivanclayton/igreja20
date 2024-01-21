@@ -1,0 +1,14 @@
+#fmain {
+position:absolute;
+top:50%;
+left:50%;
+width:500px;
+height:650px;
+margin-left:-250px;
+margin-top:-200px;
+
+border-radius:7px;
+background:#EEE9E9;
+padding:10px;
+text-align:center;
+}
